@@ -1,0 +1,21 @@
+What is React and Why It is Used?
+React is a JavaScript library developed by Facebook for building user interfaces, especially for single-page applications. It helps developers create large web applications that can update and render efficiently.
+
+Why it’s used:
+
+Fast UI rendering using Virtual DOM.
+
+Easy component reuse.
+
+Strong ecosystem and developer tools.
+
+🔹 Key Features of React
+Component-Based: UI is divided into small, reusable components.
+
+Virtual DOM: Efficient updating and rendering.
+
+JSX: A syntax extension that allows writing HTML in JavaScript.
+
+One-Way Data Binding: Data flows in a single direction.
+
+Declarative UI: Code describes what the UI should look like.
